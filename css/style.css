@@ -1,0 +1,49 @@
+.navbar {
+  background-color: #1d8922;
+}
+.navbar .nav-link {
+  color: white !important;
+  font-size: medium;
+}
+
+body {
+  background-color: #ffe6c8;
+}
+
+.carousel {
+  margin-top: 110px;
+}
+
+#most-popular-items {
+  text-align: center;
+  margin-top: 40px;
+  background-color: #1d8922;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.custom-btn {
+  /*Customiz the Buy it now button*/
+  background-color: #1d8922;
+  color: white;
+}
+
+.custom-card {
+  /*to add a space between the cards*/
+  margin-right: 15px;
+}
+
+footer {
+  background-color: #1d8922cb;
+}
+
+#footer-logo img {
+  max-width: 250px;
+  height: auto;
+}
+
+.btn-subscribe {
+  background-color: #1d8922;
+  color: white;
+  margin-top: 10px;
+}
