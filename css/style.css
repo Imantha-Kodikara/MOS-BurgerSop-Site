@@ -11,12 +11,11 @@ body {
 }
 
 .carousel {
-  margin-top: 110px;
 }
 
 #most-popular-items {
   text-align: center;
-  margin-top: 40px;
+  margin-top: 120px;
   background-color: #1d8922;
   color: white;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -46,4 +45,16 @@ footer {
   background-color: #1d8922;
   color: white;
   margin-top: 10px;
+}
+
+#items-heading {
+  text-align: center;
+  margin-top: 120px;
+  background-color: #1d8922;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.card-group {
+  margin-top: 20px;
 }
