@@ -13,9 +13,10 @@ body {
 .carousel {
 }
 
-#most-popular-items {
+#popular-items{
   text-align: center;
-  margin-top: 120px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   background-color: #1d8922;
   color: white;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;

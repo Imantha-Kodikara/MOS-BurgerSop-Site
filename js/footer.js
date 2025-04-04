@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
-  document.getElementById("footer").innerHTML = `
+document.getElementById("footer").innerHTML = `
       <div class="container my-">
       <footer
         class="text-center text-lg-start border border-white mt-xl-5 pt-4"
@@ -36,25 +35,25 @@ document.addEventListener("DOMContentLoaded", function () {
 
               <ul class="list-unstyled">
                 <li>
-                  <a href="#!" class="text-white">Home</a>
+                  <a href="index.html" class="text-white">Home</a>
                 </li>
                 <li>
-                  <a href="#!" class="text-white">Burgers</a>
+                  <a href="burgers.html" class="text-white">Burgers</a>
                 </li>
                 <li>
-                  <a href="#!" class="text-white">Submarines</a>
+                  <a href="submarines.html" class="text-white">Submarines</a>
                 </li>
                 <li>
-                  <a href="#!" class="text-white">Fries</a>
+                  <a href="fries.html" class="text-white">Fries</a>
                 </li>
                 <li>
-                  <a href="#!" class="text-white">Pasta</a>
+                  <a href="pasta.html" class="text-white">Pasta</a>
                 </li>
                 <li>
-                  <a href="#!" class="text-white">Chicken</a>
+                  <a href="chicken.html" class="text-white">Chicken</a>
                 </li>
                 <li>
-                  <a href="#!" class="text-white">Berverages</a>
+                  <a href="beverages.html" class="text-white">Berverages</a>
                 </li>
               </ul>
             </div>
@@ -107,13 +106,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
         <!-- Copyright -->
         <div class="text-center p-3 border-top border-white">
-          © 2020 Copyright:
-          <a class="text-white" href="https://mdbootstrap.com/"
-            >MDBootstrap.com</a
+          © 2025 Copyright:
+          <a class="text-white" href="https://mosburgers.com/"
+            >mosburgers.com</a
           >
         </div>
         <!-- Copyright -->
       </footer>
     </div>
       `;
-});

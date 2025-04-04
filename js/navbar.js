@@ -1,5 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
-    document.getElementById("navbar").innerHTML = `
+document.getElementById("navbar").innerHTML = `
       <nav class="navbar navbar-expand-lg fixed-top navbar-scroll">
         <div class="container">
           <img src="Images/Logo.png" height="80" alt="Logo" loading="lazy" />
@@ -49,6 +48,4 @@ document.addEventListener("DOMContentLoaded", function () {
           </div>
         </div>
       </nav>
-    `;
-  });
-  
+`;

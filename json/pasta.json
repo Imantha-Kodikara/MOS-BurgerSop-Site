@@ -1,0 +1,51 @@
+[
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Chicken n Cheese Pasta",
+    "price": "Rs. 1600.00",
+    "discount": "15% Discount",
+    "itemCode": "B1031"
+  },
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Chicken Penne Pasta",
+    "price": "Rs. 1700.00",
+    "discount": "",
+    "itemCode": "B1032"
+  },
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Ground Turkey Pasta Bake",
+    "price": "Rs. 2900.00",
+    "discount": "10% Discount",
+    "itemCode": "B1033"
+  },
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Creamy Shrimp Pasta",
+    "price": "Rs. 2000.00",
+    "discount": "",
+    "itemCode": "B1034"
+  },
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Lemon Butter Pasta",
+    "price": "Rs. 1950.00",
+    "discount": "",
+    "itemCode": "B1035"
+  },
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Tagliatelle Pasta",
+    "price": "Rs. 2400.00",
+    "discount": "1% Discount",
+    "itemCode": "B1036"
+  },
+  {
+    "image": "Images/Pasta/Pasta 1.jpg",
+    "title": "Baked Ravioli",
+    "price": "Rs. 2000.00",
+    "discount": "1% Discount",
+    "itemCode": "B1037"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "image": "Images/Beverages/Pepsi.jpg",
+    "title": "Pepsi (330 ml)",
+    "price": "Rs. 990.00",
+    "discount": "5% Discount",
+    "itemCode": "B1044"
+  },
+  {
+    "image": "Images/Beverages/CocaCola.jpg",
+    "title": "Pepsi (330 ml)",
+    "price": "Rs. 1230.00",
+    "discount": "",
+    "itemCode": "B1045"
+  },
+  {
+    "image": "Images/Beverages/Sprite.jpg",
+    "title": "Sprite (330 ml)",
+    "price": "Rs. 1500.00",
+    "discount": "3% Discount",
+    "itemCode": "B1046"
+  },
+  {
+    "image": "Images/Beverages/Miranda.jpg",
+    "title": "Sprite (330 ml)",
+    "price": "Rs. 850.00",
+    "discount": "7% Discount",
+    "itemCode": "B1047"
+  }
+]

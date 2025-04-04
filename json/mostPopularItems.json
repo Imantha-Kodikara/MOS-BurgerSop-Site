@@ -1,0 +1,20 @@
+[
+  {
+    "image": "Images/Most Popular Items/Most Popular Items 1.jpg",
+    "title": "The Ultimate Mos Burger",
+    "description": "Sink your teeth into the Ultimate Mos Burger – a perfectly grilled beef patty, topped with melted cheddar cheese, fresh lettuce, crispy bacon, and our secret sauce, all nestled between a toasted brioche bun. Enjoy this bun",
+    "price": "Rs. 1400"
+  },
+  {
+    "image": "Images/Most Popular Items/Most Popular Items 2.jpg",
+    "title": "Crispy Golden Chicken Basket",
+    "description": "Indulge in our Crispy Golden Chicken Basket – a collection of tender, crunchy fried chicken pieces paired with zesty dipping sauces. Perfectly seasoned and served in a rustic basket, it’s the ultimate treat for chicken lovers!",
+    "price": "Rs. 3100"
+  },
+  {
+    "image": "Images/Most Popular Items/Most Popular Items 3.jpg",
+    "title": "The Ocean Submarine",
+    "description": "Set sail for flavor with The Ocean Submarine – filled with premium grilled chicken, fresh veggies, and tangy sauces, all wrapped in a soft, toasted sub bun. A perfect blend of savory and fresh, it's a satisfying meal with every bite! ",
+    "price": "Rs. 1800"
+  }
+]

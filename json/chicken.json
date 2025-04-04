@@ -1,0 +1,44 @@
+[
+  {
+    "image": "Images/Chicken/Chicken 1.jpg",
+    "title": "Fried Chicken (Small)",
+    "price": "Rs. 1200.00",
+    "discount": "",
+    "itemCode": "B1038"
+  },
+  {
+    "image": "Images/Chicken/Chicken 1.jpg",
+    "title": "Fried Chicken (Regular)",
+    "price": "Rs. 2300.00",
+    "discount": "10% Discount",
+    "itemCode": "B1039"
+  },
+  {
+    "image": "Images/Chicken/Chicken 1.jpg",
+    "title": "Fried Chicken (Large)",
+    "price": "Rs. 3100.00",
+    "discount": "5% Discount",
+    "itemCode": "B1040"
+  },
+  {
+    "image": "Images/Chicken/Chicken 1.jpg",
+    "title": "Hot wings (Large)",
+    "price": "Rs. 2400.00",
+    "discount": "",
+    "itemCode": "B1041"
+  },
+  {
+    "image": "Images/Chicken/Chicken 1.jpg",
+    "title": "Devilled Chicken (Large)",
+    "price": "Rs. 900.00",
+    "discount": "",
+    "itemCode": "B1042"
+  },
+  {
+    "image": "Images/Chicken/Chicken 1.jpg",
+    "title": "BBQ Chicken (Regular)",
+    "price": "Rs. 2100.00",
+    "discount": "",
+    "itemCode": "B1043"
+  }
+]

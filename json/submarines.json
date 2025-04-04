@@ -1,0 +1,65 @@
+[
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Crispy Chicken Submarine (Large)",
+    "price": "Rs. 2000.00",
+    "discount": "",
+    "itemCode": "B1016"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Crispy Chicken Submarine (Regular)",
+    "price": "Rs. 1500.00",
+    "discount": "",
+    "itemCode": "B1017"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Chicken Submarine (Large)",
+    "price": "Rs. 1800.00",
+    "discount": "3% Discount",
+    "itemCode": "B1018"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Chicken Submarine (Regular)",
+    "price": "Rs. 1400.00",
+    "discount": "",
+    "itemCode": "B1019"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Grinder Submarine",
+    "price": "Rs. 2300.00",
+    "discount": "",
+    "itemCode": "B1020"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Cheese Submarine",
+    "price": "Rs. 2200.00",
+    "discount": "",
+    "itemCode": "B1021"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Double Cheese n Chicken Submarine",
+    "price": "Rs. 1900.00",
+    "discount": "16%",
+    "itemCode": "B1022"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "Special Horgie Submarine",
+    "price": "Rs. 2800.00",
+    "discount": "",
+    "itemCode": "B1023"
+  },
+  {
+    "image": "Images/Submarines/Submarine 1.jpg",
+    "title": "MOS Special Submarine",
+    "price": "Rs. 3000.00",
+    "discount": "",
+    "itemCode": "B1024"
+  }
+]

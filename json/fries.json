@@ -1,0 +1,44 @@
+[
+  {
+    "image": "Images/Fries/Fries 1.jpg",
+    "title": "Steak Fries (Large)",
+    "price": "Rs. 1200.00",
+    "discount": "",
+    "itemCode": "B1025"
+  },
+  {
+    "image": "Images/Fries/Fries 1.jpg",
+    "title": "Steak Fries (Medium)",
+    "price": "Rs. 600.00",
+    "discount": "",
+    "itemCode": "B1026"
+  },
+  {
+    "image": "Images/Fries/Fries 1.jpg",
+    "title": "French Fries (Large)",
+    "price": "Rs. 800.00",
+    "discount": "",
+    "itemCode": "B1027"
+  },
+  {
+    "image": "Images/Fries/Fries 1.jpg",
+    "title": "French Fries (Medium)",
+    "price": "Rs. 650.00",
+    "discount": "",
+    "itemCode": "B1028"
+  },
+  {
+    "image": "Images/Fries/Fries 1.jpg",
+    "title": "French Fries (Small)",
+    "price": "Rs. 450.00",
+    "discount": "",
+    "itemCode": "B1029"
+  },
+  {
+    "image": "Images/Fries/Fries 1.jpg",
+    "title": "Sweet Potato Fries (Large)",
+    "price": "Rs. 600.00",
+    "discount": "",
+    "itemCode": "B1030"
+  }
+]

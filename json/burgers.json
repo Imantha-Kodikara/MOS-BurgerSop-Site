@@ -1,0 +1,100 @@
+[
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Classic Burger (Large)",
+    "price": "Rs. 750.00",
+    "discount": "",
+    "itemCode": "B1001"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Classic Burger (Regular)",
+    "price": "Rs. 1500.00",
+    "discount": "15% Discount",
+    "itemCode": "B1002"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Turkey Burger",
+    "price": "Rs. 1600.00",
+    "discount": "",
+    "itemCode": "B1003"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Chicken Burger (Large)",
+    "price": "Rs. 1400.00",
+    "discount": "",
+    "itemCode": "B1004"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Chicken Burger (Regular)",
+    "price": "Rs. 800.00",
+    "discount": "20% Discount",
+    "itemCode": "B1005"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Cheese Burger (Large)",
+    "price": "Rs. 1000.00",
+    "discount": "",
+    "itemCode": "B1006"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Cheese Burger (Regular)",
+    "price": "Rs. 600.00",
+    "discount": "",
+    "itemCode": "B1007"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Bacon Burger",
+    "price": "Rs. 650.00",
+    "discount": "15% Discount",
+    "itemCode": "B1008"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Shawarma Burger",
+    "price": "Rs. 800.00",
+    "discount": "",
+    "itemCode": "B1009"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Olive Burger",
+    "price": "Rs. 1800.00",
+    "discount": "",
+    "itemCode": "B1010"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Double-Cheese Burger",
+    "price": "Rs. 1250.00",
+    "discount": "20% Discount",
+    "itemCode": "B1012"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Crispy-Chicken Burger(Regular)",
+    "price": "Rs. 1200.00",
+    "discount": "",
+    "itemCode": "B1013"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Crispy-Chicken Burger(Large)",
+    "price": "Rs. 1600.00",
+    "discount": "10% Discount",
+    "itemCode": "B1014"
+  },
+  {
+    "image": "Images/Burgers/Burger 1.jpg",
+    "title": "Paneer Burger",
+    "price": "Rs. 900.00",
+    "discount": "",
+    "itemCode": "B1015"
+  }
+]
